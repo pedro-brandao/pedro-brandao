@@ -1,10 +1,7 @@
 <h2>👩‍💻 Olá 👋🏼! Eu sou P3dro0!</h2>
-<p><em>Estudante de Segurança da informação e H4cker</em></p><br>
+<p><em>Estudante de Segurança da informação e H4cker Ético.</em></p><br>
 <img src="https://c.tenor.com/9Pn19IB5kYcAAAAC/tenor.gif" width="345">
 
-<br>
-
-Mais sobre mim...
 
 ```bash
 #!/bin/bash
