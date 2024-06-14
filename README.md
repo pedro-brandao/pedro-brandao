@@ -2,7 +2,6 @@
 <p><em>Estudante de Segurança da informação e H4cker</em></p><br>
 <img src="https://media1.tenor.com/m/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" width="345">
 
-
 <br>
 
 Mais sobre mim...
