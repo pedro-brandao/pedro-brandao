@@ -7,18 +7,32 @@
 
 Mais sobre mim...
 
-```python
-def whois():
-	 pedro = {}
-	 pedro_training = "🗡 Cyber Security, red team and ctf player"
-	 pedro['pronouns'] = "👦🏻 He/Him"
-	 pedro['special_move'] = "🔥 Web Hacking"
-	 pedro['main_tool'] = ["👁 Nmap"]
-	 pedro['favorite_language'] = ["🐍 Python", "👨🏻‍💻 JavaScript"]
-	 return pedro
+```bash
+#!/bin/bash
 
-  info = whois()
-  print(info)
+
+
+whois() {
+  declare -A pedro
+
+
+  pedro_training="🗡 Cyber Security, red team and ctf player"
+  pedro[pronouns]="👦🏻 He/Him"
+  pedro[special_move]="🔥 Web Hacking"
+  pedro[main_tool]="👁 Nmap"
+  pedro[favorite_language]="🐍 Python, 👨🏻‍💻 JavaScript"
+
+ 
+  echo "${!pedro[@]}"
+  echo "${pedro[@]}"
+}
+
+
+info=$(whois)
+
+
+echo "$info"
+
 
 
 # Hacking the planet's systems.
