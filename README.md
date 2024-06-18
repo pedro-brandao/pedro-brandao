@@ -36,4 +36,4 @@ echo "$info"
 <br>
 
 
-[![](https://skillicons.dev/icons?i=md,html,css,js,py,git,github,godot,discord,obsidian,notion,ps,vscode,replit,kali,debian,linux,windows,apple)
+![](https://skillicons.dev/icons?i=md,html,css,js,py,git,github,godot,discord,obsidian,notion,ps,vscode,replit,kali,debian,linux,windows,apple)
