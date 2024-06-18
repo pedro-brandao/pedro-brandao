@@ -4,7 +4,7 @@
 
 
 ```bash
-#!/bin/bash
+root@kali:~#!/bin/bash
 
 
 
